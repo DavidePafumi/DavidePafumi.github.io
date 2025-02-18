@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: [University of Lethbridge](https://www.ulethbridge.ca/), Department of English. Work phone: +1 (403) 329-2341.
----
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
+
 I am a PhD candidate at the U of L, where I specialize in English and Digital Humanities. My research focuses on the discourse analysis of love in the English later Middle Ages, employing vector space modeling to explore literary texts. This work bridges my passion for medieval literature, linguistics, and computational methods.
 Before joining the University of Lethbridge, I earned an MA in European and American Languages and Literatures from the University of Padua, Italy. During my academic journey, I had the privilege of studying as a visiting student at Heidelberg University, Germany, and Nizhny Novgorod, Russia.
 Since September 2022, I have been serving as a Graduate Research and Teaching Assistant at the University of Lethbridge. In this role, I contribute to the Canterbury Tales Project and support teaching activities in the Department of English. Additionally, I am or was actively involved in academic publishing for thre peer-reviewed journals: [_Digital Medievalist_](https://journal.digitalmedievalist.org) (ISSN: 1715-0736) and [_Digital Studies/Le champ Numériques_](https://www.digitalstudies.org/) (ISSN: 1918-3666), and [_Vox Medii Aevii_](http://voxmediiaevi.com/en/) (ISSN: 2587-6619).
