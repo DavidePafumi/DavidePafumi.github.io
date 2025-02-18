@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ulethbridge.ca/'>University of Lethbridge</a>, Department of English. Work phone: 403-329-2341.
+subtitle: <a href='https://www.ulethbridge.ca/'>University of Lethbridge</a>, Department of English. Work phone 403-329-2341.
 
 profile:
   align: right
