@@ -1,6 +1,6 @@
 ---
-layout: about me
-title: about me
+layout: about
+title: about
 permalink: /
 subtitle: <a href='#'>University of Lethbridge</a>, Department of English. Work phone: +1 (403) 329-2341.
 
