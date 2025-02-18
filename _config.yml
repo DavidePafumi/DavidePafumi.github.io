@@ -8,8 +8,7 @@ middle_name:
 last_name: Pafumi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > Reach out to me for collaborations, research discussions, or professional connections. I’m always eager to connect with fellow researchers, educators, and enthusiasts in the fields of Digital Humanities, Medieval Studies, and Linguistics. Let’s work together to explore new ideas and push the boundaries of knowledge! # the ">" symbol means to ignore newlines until "footer_text:"
-  This is simply a space for me and other academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > Reach out to me for collaborations, research discussions, or professional connections. I’m always eager to connect with fellow researchers, educators, and enthusiasts in the fields of Digital Humanities, Medieval Studies, and Linguistics. # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: > 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
