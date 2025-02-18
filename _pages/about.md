@@ -26,9 +26,3 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-I am a PhD candidate at U o L, where I specialize in English and Digital Humanities. My research focuses on the discourse analysis of love in the English later Middle Ages, employing vector space models to explore historical texts. This work bridges my passion for medieval literature, linguistics, and computational methods.
-Since September 2022, I have been serving as a Graduate Research and Teaching Assistant at the University of Lethbridge. In this role, I contribute to the Canterbury Tales Project and support teaching activities in the Department of English. Additionally, I am actively involved in academic publishing for thre peer-reviewed journals: _Digital Medievalist_, Digital Studies/Champs Numériques_, and _Vox Medii Aevii_.
-I earned a MA’s in European and American Languages and Literatures from the University of Padua, Italy. During my academic journey, I had the privilege of studying as a visiting student at Heidelberg University (Germany) and Nizhny Novgorod (Russia), which enriched my cross-cultural and linguistic perspectives.
-Beyond academia, I have been working as a translator since October 2020 and as a teacher of Italian as a Second Language since May 2017. My proficiency in six languages—English, Spanish, French, German, Italian, and Russian—has enabled me to engage in diverse professional and cultural contexts.
-Starting in September 2023, I took on the role of Communication Officer for the Union of Lethbridge Graduate Assistants (ULGA), a student-led union affiliated with the Public Service Alliance of Canada (PSAC). In this capacity, I advocate for the rights and interests of graduate employees, ensuring their voices are heard.
