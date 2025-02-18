@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: [University of Lethbridge](https://www.ulethbridge.ca/), Department of English. Work phone: +1 (403) 329-2341.
-
+---
 profile:
   align: right
   image: prof_pic.jpg
