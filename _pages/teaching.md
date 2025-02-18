@@ -59,7 +59,7 @@ teaching_philosophy:
       Digital tools and structured reflections prepare students for research papers and oral exams, while also providing insights 
       into class comprehension, allowing for timely pedagogical interventions.
  
-
+## Courses taught
 courses_taught:
   - period: "September to December 2025"
     institution: "University of Lethbridge, Canada"
