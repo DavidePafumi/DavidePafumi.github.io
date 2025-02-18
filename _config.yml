@@ -7,7 +7,7 @@ first_name: Davide
 middle_name:
 last_name: Pafumi
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach out to me is via my institutional e-mail address.
 description: >  # the ">" symbol means to ignore newlines until "footer_text:"
   Reach out to me for collaborations, research discussions, or professional connections. I’m always eager to connect   with fellow researchers, educators, and enthusiasts in the fields of Digital Humanities, Medieval Studies, and Linguistics.
 footer_text: > 
@@ -268,7 +268,7 @@ scholar:
   last_name: [Pafumi]
   first_name: [Davide]
 
-  style: chicago
+  style: apa
   locale: en
 
   source: /_bibliography/
