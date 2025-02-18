@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about davide
 permalink: /
 subtitle: Doctoral candidate at <a href='https://www.ulethbridge.ca/'>University of Lethbridge</a>, Department of English.
 
