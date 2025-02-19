@@ -35,12 +35,12 @@ I am a PhD candidate at the English department of the [University of Lethbridge]
     {
       "type": "Feature",
       "properties": {
-        "theme": "light"
+        "theme": "dark"
       },
       "geometry": {
         "coordinates": [
-          -112.8327,
-          49.6935
+          -112.85976824224039,
+          49.67862138248712
         ],
         "type": "Point"
       }
