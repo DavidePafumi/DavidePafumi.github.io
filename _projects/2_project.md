@@ -4,7 +4,7 @@ title: The space of love
 description: My doctoral project on problematizing vector space modelling for retrospective discourse studies
 img: assets/img/hdb.jpg
 importance: 2
-category: projects
+category: current projects
 images:
   slider: true
 ---
@@ -16,7 +16,7 @@ In fact, the intellectual debate at the time was often concerned with different 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/hrt.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/hdb.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/csl.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Which problem?
