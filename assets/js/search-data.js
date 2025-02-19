@@ -398,7 +398,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-the-canterbury-tales-project",
           title: 'The Canterbury Tales Project',
-          description: "with background image",
+          description: "Digitalizing, Transcribing and Collating Chaucer&#39;s _Tales_",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-the-space-of-love",
