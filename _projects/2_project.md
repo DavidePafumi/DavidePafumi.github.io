@@ -1,20 +1,16 @@
 ---
 layout: page
 title: The space of love
-description: a project with a background image and giscus comments
+description: My doctoral project 
 img: assets/img/csl.jpg
 importance: 2
 category: projects
-giscus_comments: true
+images:
+  slider: true
 ---
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/csl.jpg
-    ---
 
-## Aims
+
+## The discourse of love
 This project investigates how computational tools can be used to contribute meaningfully to a long-standing discussion in literary criticism. The initial focus of the work will be on the use of computational linguistic methodologies, particularly computer-assisted discourse analysis, to the discussion of love in mediaeval texts, as this is an area with well-established positions that is ripe for reconsideration. By conducting discourse analysis, this study evaluates the strengths and limitations of computational approaches in mediaeval literary studies, probing the feasibility and intellectual value of these tools to problems and debates about historical texts that have been  traditionally dominated by qualitative assessments. This research uses a multi-level discourse-analytical framework (DIMEAN) with vector-space modelling techniques of text analysis. This method will be used to explore the complex structure of interconnected texts and ideas rooted in the different meanings produced by the love discourse.
 In fact, the intellectual debate at the time was often concerned with different concepts of love, which were divided into the three established categories of friendship, spiritual, or sexual love (respectively philia, agape, or eros). The proposed methodology enables me to analyse and complicate the traditional mediaeval distinction of love by asking new questions that explore the intricate intersection of love with conceptually related notions within the texts of numerous late mediaeval authors.
 
