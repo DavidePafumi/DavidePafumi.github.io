@@ -1,10 +1,10 @@
 ---
 layout: page
 title: The Canterbury Tales Project
-description: Digitalizing, Transcribing and Collating Chaucer's _Tales_
+description: Digitalizing, Transcribing and Collating Chaucer's Tales
 img: assets/img/gcr.jpg
 importance: 1
-category: projects
+category: current projects
 images:
   slider: true
 ---
@@ -15,7 +15,6 @@ The Canterbury Tales Project is a pioneering initiative in Digital Humanities, d
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/ctp.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cap.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/txs.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Aims
