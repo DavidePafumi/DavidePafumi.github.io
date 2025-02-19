@@ -2,7 +2,7 @@
 layout: page
 title: The space of love
 description: My doctoral project 
-img: assets/img/csl.jpg
+img: assets/img/hdb.jpg
 importance: 2
 category: projects
 images:
@@ -16,7 +16,7 @@ In fact, the intellectual debate at the time was often concerned with different 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/hdb.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/csl.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/hrt.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
