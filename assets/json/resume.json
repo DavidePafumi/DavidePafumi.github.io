@@ -13,6 +13,7 @@
       "city": "Lethbridge",
       "countryCode": "CA",
       "region": "Alberta"
+		}
     },
   "work": [
     {
@@ -174,7 +175,6 @@
       "awarder": "RUDN University, Russia"
     }
   ],
-{
   "skills": [
     {
       "name": "Technical Skills",
