@@ -12,7 +12,7 @@ related_publications: true
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/gcr.jpg
     ---
 
 The Canterbury Tales Project is a pioneering initiative in Digital Humanities, dedicated to the study and preservation of Geoffrey Chaucer’s Canterbury Tales. This project aims to develop and publish the most complete scholarly edition of all surviving 84 pre-1501 manuscripts and 4 early printed editions of Chaucer’s work. It replaces less comprehensive print resources used for over half a century and represents the first complete critical edition of a major text created entirely through digital methods.
