@@ -5,7 +5,8 @@ description: Digitalizing, Transcribing and Collating Chaucer's _Tales_
 img: assets/img/gcr.jpg
 importance: 1
 category: projects
-related_publications: true
+images:
+  slider: true
 ---
 
 ## What is it?
