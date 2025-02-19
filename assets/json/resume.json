@@ -114,6 +114,16 @@
       "thesis": "Parenesis of Power in the Last Parteikonferenz of the SED: A Politolinguistic and Rhetorical-Stylistic Analysis of the Manipulation Strategies in the Protocols of March 1956.",
       "supervisors": ["Dr. Angela Nadia Centorbi"],
       "honors": "Summa Cum Laude and Honorary Mention"
+    },
+    {
+      "institution": "K. Minin University of Nizhny Novgorod",
+      "location": "Russian Federation",
+      "studyType": "Visiting Student",
+      "area": "BA Thesis Research",
+      "startDate": "2021-09-01",
+      "endDate": "2022-03-01",
+      "supervisors": ["Prof. Ekaterina Olegovna"],
+      "summary": "Research on pragma stylistics of German and Russian political language."
     }
   ],
   "awards": [
@@ -245,19 +255,19 @@
   "references": [
     {
       "name": "Daniel Paul O’Donnell, PhD",
-      "reference": "Full Professor of English and Member of the Academic Staff of the University Library, President, University of Lethbridge Faculty Association, Editor, Digital Studies/Le champ numérique, University of Lethbridge, 4401 University Drive West, Lethbridge AB T1K 3M4, Canada, Tel. +1 (403) 329-2377, daniel.odonnell@uleth.ca"
+      "reference": "Full Professor of English and Member of the Academic Staff of the University Library, President, CAFA, Past-President, ULFA, Editor-in-chief, DSCN, University of Lethbridge, daniel.odonnell@uleth.ca"
     },
     {
       "name": "Barbara Bordalejo, PhD",
-      "reference": "Head of The Canterbury Tales Project, University of Lethbridge, President, Canadian Society of Digital Humanities/ Société canadienne des humanités numériques, 4401 University Drive West, Lethbridge AB T1K 3M4, Canada, barbara.bordalejo@uleth.ca"
+      "reference": "Director of The Canterbury Tales Project, University of Lethbridge, President, CSDH/SCHN, barbara.bordalejo@uleth.ca"
     },
     {
       "name": "Lorenzo Lozzi Gallo, PhD",
-      "reference": "Full Professor of Germanic Philology, Coordinator of the MA course in Modern Languages: Literatures and Translation, Department of Ancient and Modern Civilizations (DICAM), University of Messina, Viale Annunziata, polo universitario, I-98168, Messina (ME), lorenzo.lozzigallo@unime.it"
+      "reference": "Full Professor of Germanic Philology, Pegaso University, Department of Human Sciences, lorenzo.lozzigallo@unipegaso.it"
     },
     {
       "name": "Alessandra Petrina, PhD",
-      "reference": "Full Professor of English Literature, Head of the School of Humanities, vice-Rector’s advisor for Europe, Università degli Studi di Padova, Via E. Vendramini, 13, Italy, Tel. +39 0498279760, alessandra.petrina@unipd.it"
+      "reference": "Full Professor of English Literature, Head of the School of Humanities, vice-Rector’s advisor for Europe, Università degli Studi di Padova, alessandra.petrina@unipd.it"
     }
   ]
 }
