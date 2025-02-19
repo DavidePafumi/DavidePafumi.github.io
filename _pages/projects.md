@@ -5,7 +5,7 @@ permalink: /projects/
 description: This is a list of my ongoing research projects.
 nav: true
 nav_order: 3
-display_categories: [projects]
+display_categories: [current projects]
 horizontal: false
 ---
 
