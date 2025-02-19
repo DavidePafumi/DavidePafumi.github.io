@@ -1,81 +1,33 @@
 ---
 layout: page
-title: project 2
+title: The space of love
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/csl.jpg
 importance: 2
 category: projects
 giscus_comments: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/csl.jpg
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Aims
+This project investigates how computational tools can be used to contribute meaningfully to a long-standing discussion in literary criticism. The initial focus of the work will be on the use of computational linguistic methodologies, particularly computer-assisted discourse analysis, to the discussion of love in mediaeval texts, as this is an area with well-established positions that is ripe for reconsideration. By conducting discourse analysis, this study evaluates the strengths and limitations of computational approaches in mediaeval literary studies, probing the feasibility and intellectual value of these tools to problems and debates about historical texts that have been  traditionally dominated by qualitative assessments. This research uses a multi-level discourse-analytical framework (DIMEAN) with vector-space modelling techniques of text analysis. This method will be used to explore the complex structure of interconnected texts and ideas rooted in the different meanings produced by the love discourse.
+In fact, the intellectual debate at the time was often concerned with different concepts of love, which were divided into the three established categories of friendship, spiritual, or sexual love (respectively philia, agape, or eros). The proposed methodology enables me to analyse and complicate the traditional mediaeval distinction of love by asking new questions that explore the intricate intersection of love with conceptually related notions within the texts of numerous late mediaeval authors.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/hdb.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/hrt.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
 
-{% endraw %}
+## Which problem?
+The ubiquity of love in almost every work of the period allows me to bring many different authors into our analysis, isolate the constitutive dimension of this discourse in literary texts, and surface underlying patterns of the different nuances of love in this period with a larger dataset. Operationalising for the first time a distant-reading approach that uses computation to look for patterns in mediaeval corpora of texts will help to have a better understanding of the different facets through which love was conceptualised. The patterns identified will play a role in the partial charting of the intellectual landscape of the time, revealing how authors positioned themselves within the discourse of love. 
+## The implications
+The importance of this research and its ramifications lies in the possibility of questioning the applicability of computational linguistic methods in interpreting mediaeval texts but also assessing their intellectual merit in enriching our comprehension of historical literary discourse. This may translate into placing prominent authors such as Chaucer in a more complete understanding of his intellectual milieu with respect to the inductive nature of past studies on the matter. Through its innovative data-driven focus, this study has the potential to uncover hidden connections among intellectuals that may not be readily apparent to individual readers, therefore opening avenues for a renewed understanding and revaluation of the canon through a fresh analysis of the intellectual relationships and influences at play.
