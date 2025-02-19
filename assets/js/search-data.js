@@ -403,7 +403,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-the-space-of-love",
           title: 'The space of love',
-          description: "a project with a background image and giscus comments",
+          description: "My doctoral project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
