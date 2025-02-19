@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-output",
-          title: "output",
+        },{id: "nav-intellectual-output",
+          title: "intellectual output",
           description: "Formal and informal papers in reversed chronological order.",
           section: "Navigation",
           handler: () => {
