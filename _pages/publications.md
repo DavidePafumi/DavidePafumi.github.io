@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: intellectual output
+title: Intellectual Output
 description: formal and informal papers in reversed chronological order
 ---
 

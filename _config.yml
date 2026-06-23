@@ -21,7 +21,7 @@ baseurl: ""
 google_analytics: ""
 
 # Blog
-blog_name: unsolicited
+blog_name: Unsolicited
 blog_description: a platform for sharing my blog-thoughts
 
 # -----------------------------------------------------------------------------
@@ -31,15 +31,15 @@ blog_description: a platform for sharing my blog-thoughts
 navigation:
   - title: about
     url: /
-  - title: unsolicited
+  - title: Unsolicited
     url: /blog/
-  - title: publications
+  - title: Publications
     url: /publications/
-  - title: projects
+  - title: Projects
     url: /projects/
-  - title: teaching
+  - title: Teaching
     url: /teaching/
-  - title: cv
+  - title: CV
     url: /cv/
 
 # -----------------------------------------------------------------------------

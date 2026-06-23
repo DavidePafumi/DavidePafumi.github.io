@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: unsolicited
+title: Unsolicited
 ---
 
 <div class="container">
