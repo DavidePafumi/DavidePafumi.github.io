@@ -6,7 +6,7 @@ description: a complete version of my academic cv
 ---
 
 <p>
-  <a class="btn-download" href="{{ '/assets/pdf/dp_vita_feb_25.pdf' | relative_url }}" target="_blank" rel="noopener">
+  <a class="btn-download" href="{{ '/assets/pdf/pafumi_cv.pdf' | relative_url }}" target="_blank" rel="noopener">
     <i class="fa-solid fa-file-pdf"></i> Download CV (PDF)
   </a>
 </p>
