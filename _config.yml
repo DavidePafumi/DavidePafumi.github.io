@@ -1,0 +1,98 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: Davide Pafumi
+first_name: Davide
+last_name: Pafumi
+email: davide.pafumi@uleth.ca
+description: >-
+  Personal academic website of Davide Pafumi — PhD candidate in English and
+  Digital Humanities at the University of Lethbridge. Medieval literature,
+  computational linguistics, and the discourse of love in the later Middle Ages.
+contact_note: >-
+  The best way to reach out to me is via my institutional e-mail address.
+footer_text: >-
+  Built with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+  and hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a>.
+
+lang: en
+url: https://DavidePafumi.github.io
+baseurl: ""
+
+# Optional Google Analytics (leave blank to disable)
+google_analytics: ""
+
+# Blog
+blog_name: unsolicited
+blog_description: a platform for sharing my blog-thoughts
+
+# -----------------------------------------------------------------------------
+# Navigation (order controls the navbar; pages set their own titles)
+# -----------------------------------------------------------------------------
+
+navigation:
+  - title: about
+    url: /
+  - title: unsolicited
+    url: /blog/
+  - title: publications
+    url: /publications/
+  - title: projects
+    url: /projects/
+  - title: cv
+    url: /cv/
+  - title: teaching
+    url: /teaching/
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+permalink: /blog/:year/:title/
+
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

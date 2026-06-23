@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="post about">
+  <header class="post-header">
+    <h1 class="post-title">{{ site.title }}</h1>
+    {% if page.subtitle %}<p class="desc">{{ page.subtitle }}</p>{% endif %}
+  </header>
+
+  {% if page.profile %}
+    <div class="profile float-{{ page.profile.align | default: 'right' }}">
+      {% if page.profile.image %}
+        <img
+          class="profile-img{% if page.profile.image_circular %} rounded-circle{% endif %}"
+          src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}"
+          alt="{{ site.title }}">
+      {% endif %}
+      {% if page.profile.more_info %}
+        <div class="more-info">{{ page.profile.more_info }}</div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="post-content clearfix">
+    {{ content }}
+  </div>
+
+  {% if page.social %}
+    <div class="social">
+      {% include social.html %}
+      {% if site.contact_note %}<div class="contact-note">{{ site.contact_note }}</div>{% endif %}
+    </div>
+  {% endif %}
+</article>

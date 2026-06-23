@@ -1,0 +1,25 @@
+<header class="site-header">
+  <nav class="navbar">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title | downcase }}</a>
+
+    <input type="checkbox" id="nav-toggle" class="nav-toggle">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </label>
+
+    <ul class="nav-links">
+      {%- for item in site.navigation -%}
+        {%- assign item_url = item.url | relative_url -%}
+        {%- assign current = page.url | relative_url -%}
+        {%- if item.url == '/' -%}
+          {%- assign is_active = false -%}
+          {%- if page.url == '/' or page.permalink == '/' -%}{%- assign is_active = true -%}{%- endif -%}
+        {%- else -%}
+          {%- assign is_active = false -%}
+          {%- if current contains item_url -%}{%- assign is_active = true -%}{%- endif -%}
+        {%- endif -%}
+        <li><a href="{{ item_url }}"{% if is_active %} class="active"{% endif %}>{{ item.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+</header>

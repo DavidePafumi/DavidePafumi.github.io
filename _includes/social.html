@@ -1,0 +1,21 @@
+{%- assign s = site.data.socials -%}
+<div class="social-icons">
+  {%- if s.email -%}
+    <a href="mailto:{{ s.email }}" title="email" aria-label="email"><i class="fa-solid fa-envelope"></i></a>
+  {%- endif -%}
+  {%- if s.scholar_userid -%}
+    <a href="https://scholar.google.com/citations?user={{ s.scholar_userid }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  {%- endif -%}
+  {%- if s.orcid_id -%}
+    <a href="https://orcid.org/{{ s.orcid_id }}" target="_blank" rel="noopener" title="ORCID" aria-label="ORCID"><i class="ai ai-orcid"></i></a>
+  {%- endif -%}
+  {%- if s.research_gate_profile -%}
+    <a href="{{ s.research_gate_profile }}" target="_blank" rel="noopener" title="ResearchGate" aria-label="ResearchGate"><i class="ai ai-researchgate"></i></a>
+  {%- endif -%}
+  {%- if s.github_username -%}
+    <a href="https://github.com/{{ s.github_username }}" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+  {%- endif -%}
+  {%- if s.instagram_id -%}
+    <a href="https://instagram.com/{{ s.instagram_id }}" target="_blank" rel="noopener" title="Instagram" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+  {%- endif -%}
+</div>
