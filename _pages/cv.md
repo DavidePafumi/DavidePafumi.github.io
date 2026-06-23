@@ -11,7 +11,7 @@ description: a complete version of my academic cv
   </a>
 </p>
 
-<object class="pdf-embed" data="{{ '/assets/pdf/dp_vita_feb_25.pdf' | relative_url }}" type="application/pdf">
+<object class="pdf-embed" data="{{ '/assets/pdf/pafumi_cv.pdf' | relative_url }}" type="application/pdf">
   <p>Your browser cannot display the embedded PDF.
-  <a href="{{ '/assets/pdf/dp_vita_feb_25.pdf' | relative_url }}">Download it here</a>.</p>
+  <a href="{{ '/assets/pdf/pafumi_cv.pdf' | relative_url }}">Download it here</a>.</p>
 </object>
