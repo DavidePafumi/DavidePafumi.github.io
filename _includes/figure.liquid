@@ -1,5 +1,0 @@
-{%- assign fig_alt = include.alt | default: include.title | default: include.caption | default: "figure" -%}
-<figure class="figure">
-  <img src="{{ include.path | relative_url }}" class="figure-img" alt="{{ fig_alt }}" loading="{{ include.loading | default: 'lazy' }}">
-  {%- if include.caption -%}<figcaption class="figure-caption">{{ include.caption }}</figcaption>{%- endif -%}
-</figure>

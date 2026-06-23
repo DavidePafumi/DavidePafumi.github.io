@@ -26,6 +26,10 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.map %}
+    {% include map.html %}
+  {% endif %}
+
   {% if page.social %}
     <div class="social">
       {% include social.html %}

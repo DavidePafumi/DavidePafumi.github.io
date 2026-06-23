@@ -5,8 +5,8 @@
    ============================================================================= */
 
 :root {
-  --accent: #b509ac;
-  --accent-dark: #82067c;
+  --accent: #2e414d;
+  --accent-dark: #b0cceb;
   --text: #1c1c1d;
   --text-muted: #828282;
   --bg: #ffffff;
@@ -135,6 +135,8 @@ th { background: rgba(130, 130, 130, 0.06); }
   color: var(--text-muted);
   font-size: 1rem;
   font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 .nav-links a:hover,
 .nav-links a.active { color: var(--accent); }

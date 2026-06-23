@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # set true to crop the image into a circle
 
+map: true # shows a small map of where I've studied
 social: true # includes social icons at the bottom of the page
 ---
 
